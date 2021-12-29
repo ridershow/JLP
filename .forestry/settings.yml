@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: Portfolio
   create: all
-  match: "**/*"
   templates:
   - page-builder
   - full-width-media-element

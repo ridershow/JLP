@@ -1,4 +1,12 @@
 ---
 label: Image Slider
 hide_body: false
-fields: []
+fields:
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags

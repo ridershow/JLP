@@ -9,9 +9,9 @@ page_sections:
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2021/12/29/36512484_1041638192669422_5390161583995355136_n.jpeg"
+  background_image: ''
   image:
-    image: ''
+    image: "/uploads/2021/12/29/36512484_1041638192669422_5390161583995355136_n.jpeg"
     alt_text: ''
   headline: ''
   content: ''

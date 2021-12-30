@@ -13,3 +13,8 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+- jekyll-sitemap
+- jekyll-seo-tag
+
+# url for jekyll-sitemap
+url: "https://example.com" # the base hostname & protocol for your site

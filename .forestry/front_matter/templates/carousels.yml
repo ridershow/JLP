@@ -1,6 +1,10 @@
 ---
 label: carousels
 hide_body: false
-fields: []
+fields:
+- name: carousel-pictures
+  type: image_gallery
+  config: {}
+  label: carousel-pictures
 pages:
 - carousels.md

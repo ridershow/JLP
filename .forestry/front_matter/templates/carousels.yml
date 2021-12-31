@@ -1,2 +1,4 @@
-carousels:
-  - images: 
+---
+label: carousels
+hide_body: false
+fields: []

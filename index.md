@@ -8,15 +8,11 @@ page_sections:
   logo: "/uploads/2021/12/29/jeremy-lanfranchi-photography.jpeg"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Home
   - link: "#swap"
-    link_text: Swap
+    link_text: Portfolio
   - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+    link_text: About me
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Get in touch

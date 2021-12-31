@@ -11,12 +11,11 @@ page_sections:
     link_text: Home
   - link: "#swap"
     link_text: Portfolio
-  - link: "#customize"
-    link_text: Price
   - link: "#responsive"
     link_text: About me
   - link: "#blocks"
-    link_text: Contact
+    link_text: About me
+
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Get in touch

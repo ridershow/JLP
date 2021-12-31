@@ -1,12 +1,4 @@
 ---
 label: carousels
 hide_body: false
-carousel:
-  - "/uploads//uploads/2021/12/29/36512484_1041638192669422_5390161583995355136_n.jpeg"
-  - "/uploads//uploads/2021/12/29/138641697_1832953823537851_4436063647789494401_n.jpeg"
-
-extra_styles:
-    - "/css/extra_styles.css"
-
-extra_scripts:
-    - "/js/extra_script.js"
+fields: []

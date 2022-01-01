@@ -8,4 +8,4 @@ fields:
   config: {}
   label: carousel-pictures
 pages:
-- carousels.md
+- portfolio.md

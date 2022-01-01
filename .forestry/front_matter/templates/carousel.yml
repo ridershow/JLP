@@ -1,6 +1,7 @@
 ---
-label: carousels
+label: carousel
 hide_body: false
+layout: carousel
 fields:
 - name: carousel-pictures
   type: image_gallery

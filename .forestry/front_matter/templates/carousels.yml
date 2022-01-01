@@ -8,3 +8,4 @@ fields:
   label: carousel-pictures
 pages:
 - carousels.md
+- portfolio.md

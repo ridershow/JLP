@@ -1,31 +1,18 @@
 ---
 layout: blocks
 title: Portfolio
-date: 2021-12-29 00:00:00 +0100
+date: '2021-12-29T00:00:00.000+01:00'
 page_sections:
 - template: navigation-header
   block: header-1
   logo: "/uploads/2021/12/29/jeremy-lanfranchi-photography.jpeg"
   navigation: []
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  image:
-    image: "/uploads/2021/12/29/36512484_1041638192669422_5390161583995355136_n.jpeg"
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: ''
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: ''
+carousel-pictures:
+- "/uploads/2021/12/29/135208288_1823318607834706_1475672291043846983_n.jpeg"
+- "/uploads/2021/12/29/138641697_1832953823537851_4436063647789494401_n.jpeg"
+- "/uploads/2021/12/29/36512484_1041638192669422_5390161583995355136_n.jpeg"
 
 ---

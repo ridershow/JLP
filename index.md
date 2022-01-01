@@ -9,13 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#swap"
+  - link: "/portfolio"
     link_text: Portfolio
   - link: "#responsive"
     link_text: About me
   - link: "#blocks"
     link_text: About me
-
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Get in touch
@@ -26,7 +25,7 @@ page_sections:
   content: Enter in a world filled of adventures and poetry
   cta:
     enabled: true
-    url: /portfolio
+    url: "/portfolio"
     button_text: 'See Portfolio '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
